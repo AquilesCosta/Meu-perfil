@@ -3,7 +3,7 @@
 Meu nome é Aquiles Costa
 
 - Estou estudando na [Curso em Video](https://www.cursoemvideo.com/)
-- Estou me desenvolvendo na linguagem JavaScript;
+- Estou me desenvolvendo na linguagem Python;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 ### Você pode entrar em contato comigo 📫
